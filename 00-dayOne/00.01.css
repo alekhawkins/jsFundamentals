@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+
+}
+body{
+    border: 2px solid black;
+}
+div.main{
+    border-radius: 20px;
+    
+}
+html{
+    background-color: gray;
+}
+
+.sub{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: lightgray;
+    text-align: center;
+}
